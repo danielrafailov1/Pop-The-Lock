@@ -129,4 +129,3 @@ struct LockGameArea: View {
 #Preview {
     GameView(gameState: GameState())
 }
-

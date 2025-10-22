@@ -63,4 +63,3 @@ struct GameOverView: View {
 #Preview {
     GameOverView(gameState: GameState())
 }
-

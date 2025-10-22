@@ -26,4 +26,3 @@ struct GameConstants {
     static let levelGridColumns = 5
     static let levelButtonSize: CGFloat = 30
 }
-
