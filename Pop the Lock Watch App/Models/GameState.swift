@@ -214,3 +214,4 @@ class GameState: ObservableObject {
         return progressManager
     }
 }
+

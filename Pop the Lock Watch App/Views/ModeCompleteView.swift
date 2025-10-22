@@ -50,3 +50,4 @@ struct ModeCompleteView: View {
 #Preview {
     ModeCompleteView(gameState: GameState())
 }
+
