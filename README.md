@@ -9,7 +9,6 @@ A fun and challenging lock-picking game for Apple Watch with multiple difficulty
 - **Progressive Difficulty**: Each level requires more hits (level number = target score)
 - **Speed-Based Modes**: Modes differ only by rotation speed
 - **Persistent Progress**: Your completed levels are saved
-- **Visual Lock Design**: Realistic lock with yellow ball target
 - **Haptic Feedback**: Success and failure vibrations
 
 ## 🏗️ Project Structure
@@ -36,8 +35,8 @@ Pop the Lock Watch App/
 
 1. **Choose Mode**: Select your preferred speed (Super Easy to Expert)
 2. **Pick Level**: Choose any level from 1-50
-3. **Hit the Target**: Tap when the white line hits the yellow ball
-4. **Complete Level**: Hit the ball the number of times shown in the level number
+3. **Hit the Target**: Tap when the orange line hits the green
+4. **Complete Level**: Hit the green the number of times shown in the level number
 5. **Progress**: Unlock new levels and complete entire modes
 
 ## 🔧 Technical Details
@@ -58,7 +57,7 @@ Pop the Lock Watch App/
 
 ## 📱 Controls
 
-- **Tap Anywhere**: Hit the yellow ball target
+- **Tap Anywhere**: Hit the green target
 - **Navigation**: Use buttons to move between screens
 - **Level Selection**: Grid of 50 numbered buttons per mode
 
